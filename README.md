@@ -1,4 +1,5 @@
-# Olá pessoal! Bem-vindos ao meu perfil! 👋
+## Olá pessoal! Bem-vindos ao meu perfil! 👋]
+Sou um desenvolvedor direto da cidade de Sobral, Ceará, e estou no processo de aprimoramento de minhas habilidades na programação, sendo eu uma pessoa full-stack, com afinidade no front-end.
 
 <!--
 **deriksousa08/deriksousa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
